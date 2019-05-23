@@ -1,0 +1,33 @@
+<! DOCTYPE html>
+
+<html>
+   
+  <head>
+    <title>
+	index.html
+    </title>
+    <style>
+	h1{
+	   float: right;
+	   colour: red
+	}
+     </style>
+  </head>
+
+   <body>
+   <h1> <style="color:blue;"> This is a Blue Heading </h1>
+   <h1 style="color:blue;">This is a Blue Heading</h1>
+
+
+	</style>
+	<p>
+		Biker's skill is cool and not fat, unlike B. Zhang who is fat and get negative marks. B.Zhang is trash, as same as Dank Memer.
+	</p>
+	<p>
+		Do not "pls bet" in Dank Memer. It could change your amount of money 30k to noting.
+	</p>
+	
+			<img src=
+			>
+   </body>
+</html>
